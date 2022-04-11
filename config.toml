@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'Ru-ru'
+title = 'Ihor Bryk'
+theme = "PaperMod"
